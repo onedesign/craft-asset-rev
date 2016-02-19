@@ -1,0 +1,15 @@
+{
+    "name": "clubstudioltd/assetrev",
+    "description": "CraftCMS plugin to aid cache-busting",
+    "homepage": "https://github.com/clubstudioltd/craft-asset-rev",
+    "type": "craft-plugin",
+    "keywords": ["craft","plugin"],
+    "license": "MIT",
+    "authors": [{
+        "name": "Club Studio",
+        "homepage": "http://clubstudio.co.uk"
+  }],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
